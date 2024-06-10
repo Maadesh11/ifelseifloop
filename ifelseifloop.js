@@ -1,10 +1,10 @@
 let num=-2;
 if(num>10){
-    console.log("given num is big");
+    document.write("given num is big");
 }
 else if(num<10){
-    console.log("given num is lesser");
+    document.write("given num is lesser");
 }
 else{
-    console.log("given num is 10");
+    document.write("given num is 10");
 }
